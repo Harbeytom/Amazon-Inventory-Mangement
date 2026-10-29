@@ -1,0 +1,6 @@
+﻿SKU,ASIN (fictional placeholder),Product,Fulfillment,Available Units,Avg Daily Sales,Supplier Lead Time (days),Safety Stock (days),Target Coverage (days),Review Period (days),Inbound Units
+SKU-COF-001,B0DEMO1001,Stainless Coffee Tumbler 20oz,FBA,185,24,12,14,30,35,4
+SKU-YOG-002,B0DEMO1002,Non-slip Yoga Mat,FBA,42,18,9,7,30,35,5
+SKU-DES-003,B0DEMO1003,Desk Organizer Set,FBA,96,10,5,12,30,35,7
+SKU-PET-004,B0DEMO1004,Pet Grooming Brush,FBA,17,15,8,6,30,35,5
+SKU-KIT-005,B0DEMO1005,Silicone Kitchen Spatula Set,FBA,260,20,10,11,30,35,6

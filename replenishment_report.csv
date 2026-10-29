@@ -1,0 +1,10 @@
+﻿SKU,Product,Fulfillment,Available Units,Avg Daily Sales,Lead Time Days,Safety Stock Days,Inbound Units,Estimated Days of Cover,Reorder Point Units,Target Stock Units,Suggested Reorder Units,Review Status
+SKU-COF-001,Stainless Coffee Tumbler 20oz,FBA,185,24,12,14,4,7.7,624,1344,1155,REVIEW RESTOCK
+SKU-YOG-002,Non-slip Yoga Mat,FBA,42,18,9,7,5,2.3,288,828,781,REVIEW RESTOCK
+SKU-DES-003,Desk Organizer Set,FBA,96,10,5,12,7,9.6,170,470,367,REVIEW RESTOCK
+SKU-PET-004,Pet Grooming Brush,FBA,17,15,8,6,5,1.1,210,660,638,REVIEW RESTOCK
+SKU-KIT-005,Silicone Kitchen Spatula Set,FBA,260,20,10,11,6,13.0,420,1020,754,REVIEW RESTOCK
+SKU-LMP-101,LED Desk Lamp,FBM,38,8,4,9,5,4.8,104,344,301,REVIEW RESTOCK
+SKU-CAB-102,Cable Organizer Clips,FBM,21,12,6,6,4,1.8,144,504,479,REVIEW RESTOCK
+SKU-BTL-103,Reusable Water Bottle,FBM,75,9,5,8,6,8.3,117,387,306,REVIEW RESTOCK
+SKU-NOT-104,Notebook 3-Pack,FBM,14,7,4,5,3,2.0,63,273,256,REVIEW RESTOCK

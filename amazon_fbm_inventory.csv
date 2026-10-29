@@ -1,0 +1,5 @@
+﻿SKU,ASIN (fictional placeholder),Product,Fulfillment,Available Units,Avg Daily Sales,Supplier Lead Time (days),Safety Stock (days),Target Coverage (days),Review Period (days),Inbound Units
+SKU-LMP-101,B0DEMO2001,LED Desk Lamp,FBM,38,8,4,9,30,28,5
+SKU-CAB-102,B0DEMO2002,Cable Organizer Clips,FBM,21,12,6,6,30,28,4
+SKU-BTL-103,B0DEMO2003,Reusable Water Bottle,FBM,75,9,5,8,30,28,6
+SKU-NOT-104,B0DEMO2004,Notebook 3-Pack,FBM,14,7,4,5,30,28,3
